@@ -1,0 +1,6 @@
+Credentials cache: API:0AAA8C49-C086-4D76-91E3-B5C396873839
+        Principal: echin@42.FR
+
+  Issued                Expires               Principal
+Aug  4 13:40:40 2020  Aug 11 13:40:40 2020  krbtgt/42.FR@42.FR
+Aug  4 13:40:41 2020  Aug 11 13:40:40 2020  HTTP/student-storage-2.42.fr@42.FR
